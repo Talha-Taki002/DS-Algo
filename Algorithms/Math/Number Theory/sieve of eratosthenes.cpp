@@ -1,7 +1,6 @@
 #include <vector>
 
 namespace SieveOfEratosthenes {
-
     struct Sieve {
         int n;
         std::vector <bool> isPrime;
